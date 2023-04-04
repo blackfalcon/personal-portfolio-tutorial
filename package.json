@@ -15,7 +15,7 @@
         "@fortawesome/free-brands-svg-icons": "^5.15.3",
         "@fortawesome/free-solid-svg-icons": "^5.15.3",
         "@sveltejs/adapter-netlify": "^1.0.0-next.25",
-        "@sveltejs/kit": "1.0.0-next.133",
+        "@sveltejs/kit": "1.15.1",
         "@tailwindcss/aspect-ratio": "^0.2.1",
         "@tailwindcss/forms": "^0.3.3",
         "@tailwindcss/typography": "^0.4.1",
